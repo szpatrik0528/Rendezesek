@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Buborek", "Rendezesek\Buborek.csproj", "{B838273F-5955-4FA3-ADB4-69DC0ADE00EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gyors", "Gyors\Gyors.csproj", "{5C64FCCC-084A-4BAA-9AB4-56A043153839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beszuro", "Beszuro\Beszuro.csproj", "{D9CD7C2B-2121-4C5E-B044-066201C48702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kupac", "Kupac\Kupac.csproj", "{B811FCD8-414D-45F4-B8BC-A9099E5595C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koktel", "Koktel\Koktel.csproj", "{D226DE58-898D-4EAB-9B56-A4E9DE2E93A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumKivalasztasos", "MinimumKivalasztasos\MinimumKivalasztasos.csproj", "{A03BE896-C314-4A6B-975C-7B98F7520401}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tools", "tools\tools.csproj", "{FB2A137A-EDA4-4133-B2F1-D4F41A318512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B838273F-5955-4FA3-ADB4-69DC0ADE00EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B838273F-5955-4FA3-ADB4-69DC0ADE00EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B838273F-5955-4FA3-ADB4-69DC0ADE00EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B838273F-5955-4FA3-ADB4-69DC0ADE00EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C64FCCC-084A-4BAA-9AB4-56A043153839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C64FCCC-084A-4BAA-9AB4-56A043153839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C64FCCC-084A-4BAA-9AB4-56A043153839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C64FCCC-084A-4BAA-9AB4-56A043153839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9CD7C2B-2121-4C5E-B044-066201C48702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9CD7C2B-2121-4C5E-B044-066201C48702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9CD7C2B-2121-4C5E-B044-066201C48702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9CD7C2B-2121-4C5E-B044-066201C48702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B811FCD8-414D-45F4-B8BC-A9099E5595C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B811FCD8-414D-45F4-B8BC-A9099E5595C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B811FCD8-414D-45F4-B8BC-A9099E5595C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B811FCD8-414D-45F4-B8BC-A9099E5595C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D226DE58-898D-4EAB-9B56-A4E9DE2E93A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D226DE58-898D-4EAB-9B56-A4E9DE2E93A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D226DE58-898D-4EAB-9B56-A4E9DE2E93A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D226DE58-898D-4EAB-9B56-A4E9DE2E93A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A03BE896-C314-4A6B-975C-7B98F7520401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A03BE896-C314-4A6B-975C-7B98F7520401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A03BE896-C314-4A6B-975C-7B98F7520401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A03BE896-C314-4A6B-975C-7B98F7520401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2A137A-EDA4-4133-B2F1-D4F41A318512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2A137A-EDA4-4133-B2F1-D4F41A318512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2A137A-EDA4-4133-B2F1-D4F41A318512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2A137A-EDA4-4133-B2F1-D4F41A318512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E988FEB8-E6D3-43F2-A901-B376E94AFFFE}
+	EndGlobalSection
+EndGlobal
